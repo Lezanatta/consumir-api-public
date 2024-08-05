@@ -7,4 +7,9 @@
     <RootNamespace>consumir_api</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Negocio\Negocios\Negocios.csproj" />
+    <ProjectReference Include="..\..\Servico\Servico.csproj" />
+  </ItemGroup>
+
 </Project>

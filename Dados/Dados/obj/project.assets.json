@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Negocios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Negocios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Negocios.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Negocios/1.0.0": {
+      "type": "project",
+      "path": "../../Negocio/Negocios/Negocios.csproj",
+      "msbuildProject": "../../Negocio/Negocios/Negocios.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Negocios >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\lelez\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\consumir-api\\consumir-api\\Negocio\\Negocios\\Negocios.csproj": {
+              "projectPath": "C:\\consumir-api\\consumir-api\\Negocio\\Negocios\\Negocios.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
