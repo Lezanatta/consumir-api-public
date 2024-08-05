@@ -1,0 +1,12 @@
+C:\consumir-api\consumir-api\Servico\bin\Debug\net8.0\Servico.deps.json
+C:\consumir-api\consumir-api\Servico\bin\Debug\net8.0\Servico.dll
+C:\consumir-api\consumir-api\Servico\bin\Debug\net8.0\Servico.pdb
+C:\consumir-api\consumir-api\Servico\obj\Debug\net8.0\Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\consumir-api\consumir-api\Servico\obj\Debug\net8.0\Servico.AssemblyInfoInputs.cache
+C:\consumir-api\consumir-api\Servico\obj\Debug\net8.0\Servico.AssemblyInfo.cs
+C:\consumir-api\consumir-api\Servico\obj\Debug\net8.0\Servico.csproj.CoreCompileInputs.cache
+C:\consumir-api\consumir-api\Servico\obj\Debug\net8.0\Servico.sourcelink.json
+C:\consumir-api\consumir-api\Servico\obj\Debug\net8.0\Servico.dll
+C:\consumir-api\consumir-api\Servico\obj\Debug\net8.0\refint\Servico.dll
+C:\consumir-api\consumir-api\Servico\obj\Debug\net8.0\Servico.pdb
+C:\consumir-api\consumir-api\Servico\obj\Debug\net8.0\ref\Servico.dll
