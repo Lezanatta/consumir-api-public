@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Dados/1.0.0": {
+        "dependencies": {
+          "Negocios": "1.0.0"
+        },
         "runtime": {
           "Dados.dll": {}
+        }
+      },
+      "Negocios/1.0.0": {
+        "runtime": {
+          "Negocios.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Negocios/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

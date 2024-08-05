@@ -1,11 +1,15 @@
 C:\consumir-api\consumir-api\Dados\Dados\bin\Debug\net8.0\Dados.deps.json
 C:\consumir-api\consumir-api\Dados\Dados\bin\Debug\net8.0\Dados.dll
 C:\consumir-api\consumir-api\Dados\Dados\bin\Debug\net8.0\Dados.pdb
+C:\consumir-api\consumir-api\Dados\Dados\bin\Debug\net8.0\Negocios.dll
+C:\consumir-api\consumir-api\Dados\Dados\bin\Debug\net8.0\Negocios.pdb
+C:\consumir-api\consumir-api\Dados\Dados\obj\Debug\net8.0\Dados.csproj.AssemblyReference.cache
 C:\consumir-api\consumir-api\Dados\Dados\obj\Debug\net8.0\Dados.GeneratedMSBuildEditorConfig.editorconfig
 C:\consumir-api\consumir-api\Dados\Dados\obj\Debug\net8.0\Dados.AssemblyInfoInputs.cache
 C:\consumir-api\consumir-api\Dados\Dados\obj\Debug\net8.0\Dados.AssemblyInfo.cs
 C:\consumir-api\consumir-api\Dados\Dados\obj\Debug\net8.0\Dados.csproj.CoreCompileInputs.cache
 C:\consumir-api\consumir-api\Dados\Dados\obj\Debug\net8.0\Dados.sourcelink.json
+C:\consumir-api\consumir-api\Dados\Dados\obj\Debug\net8.0\Dados.csproj.CopyComplete
 C:\consumir-api\consumir-api\Dados\Dados\obj\Debug\net8.0\Dados.dll
 C:\consumir-api\consumir-api\Dados\Dados\obj\Debug\net8.0\refint\Dados.dll
 C:\consumir-api\consumir-api\Dados\Dados\obj\Debug\net8.0\Dados.pdb
