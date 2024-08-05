@@ -8,13 +8,13 @@ public class ServiceUsers
     public ServiceUsers() => _acessarApi = new AcessarApiUsers();
     public async Task<List<Usuario>> ObterUsuarios()
     {
-        var usuarios = await _acessarApi.CapturarUsuarios();
+        var usuarios = await _acessarApi.GetUsuarios();
 
         return usuarios;
     }
     public async Task<Usuario> ObterUsuarioNome(string nomeUsuario)
     {
-        var usuario = await _acessarApi.CapturarUsuarioNome(nomeUsuario);
+        var usuario = await _acessarApi.GetUsuarioNome(nomeUsuario);
 
         return usuario;
     }
