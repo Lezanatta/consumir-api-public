@@ -36,6 +36,13 @@ C:\consumir-api\consumir-api\Apresentacao\consumir-api\bin\Debug\net8.0\consumir
 C:\consumir-api\consumir-api\Apresentacao\consumir-api\bin\Debug\net8.0\consumir-api.runtimeconfig.json
 C:\consumir-api\consumir-api\Apresentacao\consumir-api\bin\Debug\net8.0\consumir-api.dll
 C:\consumir-api\consumir-api\Apresentacao\consumir-api\bin\Debug\net8.0\consumir-api.pdb
+C:\consumir-api\consumir-api\Apresentacao\consumir-api\bin\Debug\net8.0\Dados.dll
+C:\consumir-api\consumir-api\Apresentacao\consumir-api\bin\Debug\net8.0\Negocios.dll
+C:\consumir-api\consumir-api\Apresentacao\consumir-api\bin\Debug\net8.0\Servico.dll
+C:\consumir-api\consumir-api\Apresentacao\consumir-api\bin\Debug\net8.0\Negocios.pdb
+C:\consumir-api\consumir-api\Apresentacao\consumir-api\bin\Debug\net8.0\Servico.pdb
+C:\consumir-api\consumir-api\Apresentacao\consumir-api\bin\Debug\net8.0\Dados.pdb
+C:\consumir-api\consumir-api\Apresentacao\consumir-api\obj\Debug\net8.0\consumir-api.csproj.AssemblyReference.cache
 C:\consumir-api\consumir-api\Apresentacao\consumir-api\obj\Debug\net8.0\consumir-api.GeneratedMSBuildEditorConfig.editorconfig
 C:\consumir-api\consumir-api\Apresentacao\consumir-api\obj\Debug\net8.0\consumir-api.AssemblyInfoInputs.cache
 C:\consumir-api\consumir-api\Apresentacao\consumir-api\obj\Debug\net8.0\consumir-api.AssemblyInfo.cs
@@ -54,6 +61,7 @@ C:\consumir-api\consumir-api\Apresentacao\consumir-api\obj\Debug\net8.0\staticwe
 C:\consumir-api\consumir-api\Apresentacao\consumir-api\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\consumir-api\consumir-api\Apresentacao\consumir-api\obj\Debug\net8.0\scopedcss\bundle\consumir-api.styles.css
 C:\consumir-api\consumir-api\Apresentacao\consumir-api\obj\Debug\net8.0\scopedcss\projectbundle\consumir-api.bundle.scp.css
+C:\consumir-api\consumir-api\Apresentacao\consumir-api\obj\Debug\net8.0\consumir-api.csproj.CopyComplete
 C:\consumir-api\consumir-api\Apresentacao\consumir-api\obj\Debug\net8.0\consumir-api.dll
 C:\consumir-api\consumir-api\Apresentacao\consumir-api\obj\Debug\net8.0\refint\consumir-api.dll
 C:\consumir-api\consumir-api\Apresentacao\consumir-api\obj\Debug\net8.0\consumir-api.pdb

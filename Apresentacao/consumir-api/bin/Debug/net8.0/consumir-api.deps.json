@@ -7,14 +7,55 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "consumir-api/1.0.0": {
+        "dependencies": {
+          "Negocios": "1.0.0",
+          "Servico": "1.0.0"
+        },
         "runtime": {
           "consumir-api.dll": {}
+        }
+      },
+      "Dados/1.0.0": {
+        "dependencies": {
+          "Negocios": "1.0.0"
+        },
+        "runtime": {
+          "Dados.dll": {}
+        }
+      },
+      "Negocios/1.0.0": {
+        "runtime": {
+          "Negocios.dll": {}
+        }
+      },
+      "Servico/1.0.0": {
+        "dependencies": {
+          "Dados": "1.0.0",
+          "Negocios": "1.0.0"
+        },
+        "runtime": {
+          "Servico.dll": {}
         }
       }
     }
   },
   "libraries": {
     "consumir-api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Negocios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Servico/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
