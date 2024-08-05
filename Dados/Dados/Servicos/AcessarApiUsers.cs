@@ -58,7 +58,7 @@ public class AcessarApiUsers
         }
         else
         {
-            throw new Exception("Erro ao recuperar usuarios da API.");
+            throw new Exception("Erro ao recuperar usuario da API.");
         }
     }
 }

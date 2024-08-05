@@ -1,19 +1,39 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Negocios.Models;
+using Servico.Servicos;
 
-namespace consumir_api.Pages
+namespace consumir_api.Pages;
+public class IndexModel : PageModel
 {
-    public class IndexModel : PageModel
+    private readonly ServiceUsers _serviceUsers;
+    private readonly ILogger<IndexModel> _logger;
+    public List<Usuario> Usuarios;
+
+    public IndexModel(ILogger<IndexModel> logger)
     {
-        private readonly ILogger<IndexModel> _logger;
+        _logger = logger;
+        _serviceUsers = new ServiceUsers();
+        Usuarios = new List<Usuario>();
+    }
 
-        public IndexModel(ILogger<IndexModel> logger)
+    public async Task OnGet(string nomeUsuario)
+    {
+        try
         {
-            _logger = logger;
+            if (string.IsNullOrEmpty(nomeUsuario))
+                Usuarios = await _serviceUsers.ObterUsuarios();
+
+            else
+            {
+                var usuarioPesquisado = await _serviceUsers.ObterUsuarioNome(nomeUsuario);
+                Usuarios.Clear();
+                Usuarios.Add(usuarioPesquisado);
+            }
         }
-
-        public void OnGet()
+        catch (Exception)
         {
-
+            Usuarios.Clear();
         }
     }
+
 }
