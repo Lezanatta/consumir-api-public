@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Servico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8782d02da7f3e1df706e24c9a209965534f820a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c763b0910a659d5d29f8012893b43f1a380c5d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Servico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Servico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
