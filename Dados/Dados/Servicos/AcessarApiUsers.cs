@@ -6,7 +6,7 @@ public class AcessarApiUsers
 {
     private readonly string _caminhoApi = "https://api.github.com/";
 
-    public async Task<List<Usuario>> CapturarUsuarios()
+    public async Task<List<Usuario>> GetUsuarios()
     {
         var httpClient = new HttpClient
         {
@@ -34,7 +34,7 @@ public class AcessarApiUsers
         }
     }
 
-    public async Task<Usuario> CapturarUsuarioNome(string nomeUsuario)
+    public async Task<Usuario> GetUsuarioNome(string nomeUsuario)
     {
         var httpClient = new HttpClient
         {
