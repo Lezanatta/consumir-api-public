@@ -1,0 +1,12 @@
+C:\consumir-api\consumir-api\Negocio\Negocios\bin\Debug\net8.0\Negocios.deps.json
+C:\consumir-api\consumir-api\Negocio\Negocios\bin\Debug\net8.0\Negocios.dll
+C:\consumir-api\consumir-api\Negocio\Negocios\bin\Debug\net8.0\Negocios.pdb
+C:\consumir-api\consumir-api\Negocio\Negocios\obj\Debug\net8.0\Negocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\consumir-api\consumir-api\Negocio\Negocios\obj\Debug\net8.0\Negocios.AssemblyInfoInputs.cache
+C:\consumir-api\consumir-api\Negocio\Negocios\obj\Debug\net8.0\Negocios.AssemblyInfo.cs
+C:\consumir-api\consumir-api\Negocio\Negocios\obj\Debug\net8.0\Negocios.csproj.CoreCompileInputs.cache
+C:\consumir-api\consumir-api\Negocio\Negocios\obj\Debug\net8.0\Negocios.sourcelink.json
+C:\consumir-api\consumir-api\Negocio\Negocios\obj\Debug\net8.0\Negocios.dll
+C:\consumir-api\consumir-api\Negocio\Negocios\obj\Debug\net8.0\refint\Negocios.dll
+C:\consumir-api\consumir-api\Negocio\Negocios\obj\Debug\net8.0\Negocios.pdb
+C:\consumir-api\consumir-api\Negocio\Negocios\obj\Debug\net8.0\ref\Negocios.dll
