@@ -2,7 +2,7 @@
 este projeto foi desenvolvido como forma de praticar o consumo de APIs públicas, sendo escolhida a API do GitHub. O projeto foi feito utilizando ASP.NET Core com Razor Pages para exibir as informações consumidas. Além do consumo das informações, o projeto propôs a inclusão de uma arquitetura de software em camadas, conforme a figura abaixo:
 
 
-![Captura de tela 2024-08-05 114441](https://github.com/user-attachments/assets/cd610bcd-fb11-4963-92dc-00db324bddeb)
+![image](https://github.com/user-attachments/assets/66a965d6-097d-4b40-bb76-c84a899aed0c)
 
 
 Como podemos visualizar na figura acima, o projeto é dividido em quatro camadas:
