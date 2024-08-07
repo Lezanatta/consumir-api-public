@@ -17,6 +17,6 @@ Como podemos visualizar na figura acima, o projeto é dividido em quatro camadas
 
 Nesta arquitetura de software, as dependências ocorrem de maneira linear, da esquerda para a direita. Isso contribui para a organização do projeto, facilita a manutenção do código e a adição de novas features, devido ao baixo acoplamento entre as camadas.
 
-#Depêndencia entre camadas
+# Depêndencia entre camadas
 
 Conforme mencionado anteriormente, as depêndecias ocorrem de maneira linear da esquerda para direita e cada camada está dependendo de implementações concretas, isso resulta em um forte acoplamento entre as camadas. Para resolver esse problema, poderíamos utilizar padrões de projeto, que não foram empregados neste projeto, cujo objetivo foi apenas implementar uma arquitetura em camadas. Assim, com a utilização de padrões de projeto nossa aplicação poderia depender de abstrações e não de implementações concretas. Essa implementação contribui para um projeto mais estruturado e de fácil manutenção, pois atualizações em uma camada não afetarão as outras.
